@@ -7,22 +7,94 @@
 {% endblock %}
 
 {% block content %}
+<div class="container">
+	<div class="col-sm-12">
+		<div style="padding-top: 4rem; padding-bottom: 4rem;">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="row">
+						<div style="padding-top: 0!important">
+							<div style="margin-bottom: 3rem;">
+							<h5 style="font-size: 2rem; position: relative;background-color: #cde1f8 ">About Me </h5>
+							</div>
+							<p style="font-size: 1rem; font-weight: 300;">
+							CSE graduated with Internship experiences in Android Application Development at Rakiura Technology.
+							</p>
+							<p style="font-size: 1rem; font-weight: 300;">
+							I came to the industry with my skills in Java, Python, HTML, PHP, SQL and wish to learn how to utilise these alongside my Soft skills.
+							
+						</div>
+					</div>
+					<div class="col-sm-6 col-md-5" style="margin:auto;">
+						<div  style="text-align: center; padding-top: 8rem;margin-bottom: 3rem;" > 
+								<img style="border-radius: .25rem !important; max-width: 200%;" src="/media/image/about-img.png">
+							</div>
+						</div>
+					
+				</div>
+
+				<div class="col-md-6">
+					<div class="col-sm-6 col-md-5" style="margin: 0px auto;">
+						<div  style="text-align: center; margin-bottom: 3rem;" > 
+								<img class="img-fluid rounded b-shadow-a" src="/media/image/hero-img.png">
+							</div>
+						</div>
+					<div class="sikll-mf">
+						<span>Python</span>
+						<span style="float: right;">80%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div></div>
+ 						 <span>Android App</span>
+						<span style="float: right;">70%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div></div>
+ 						 <span>Java</span>
+						<span style="float: right;">70%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div></div>
+ 						 <span>HTML</span>
+						<span style="float: right;">85%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div></div>
+ 						 <span>PHP</span>
+						<span style="float: right;">70%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div></div>
+ 						 <span>Django</span>
+						<span style="float: right;">60%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div></div>
+ 						 <span>SQL</span>
+						<span style="float: right;">70%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div></div>
+ 						 <span>Drawing/Painting</span>
+						<span style="float: right;">90%</span>
+						<div class="progress" style="background-color: #cde1f8;">
+ 						 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%"></div></div>
+
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+
 	
-<p>
-	Hello.... you .I am a Software Engineer ... <br>
-	Yep Still thinking why i did it.. ;) <br>
-	<br> FOUR years of my life(2015-2019) (((yeh yeh everyone in india know its Engineeing life)))
-	  was in City Engineering College <br>
-	And I never got single paper back.. <br>
-	i need job , and that's why i am  Unleashed Django to Python ..!! 
-	<p>
-	<div class='row'>
+
+<div>
+<hr>	
+</dev>
+
+	<div class='card-deck'>
 	{% for a in blog_list %}
 
 		{% include 'blog/list_inline.html' with blog_post=a truncate=True detail=False %}
 	{% endfor %}
-
-</div>
+	</div>
 
 {% endblock %}
 
