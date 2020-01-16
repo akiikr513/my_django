@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"image"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"B",
+				"BlogPost"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"Bl",
+				"BlogPostForm"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bl",
+				"blog"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"b",
+				"blog_post_retrive_view"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"blog_po",
+				"blog_post_detail_page"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"blo",
+				"blog_post_detail_page"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"ho",
+				"home_page"
+			],
+			[
+				"u",
+				"urls"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/form.html",
+			"settings":
+			{
+				"buffer_size": 291,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/cfehome",
+		"/C/Dev/cfehome/src",
+		"/C/Dev/cfehome/src/my_django",
+		"/C/Dev/cfehome/src/my_django/__pycache__"
+	],
+	"file_history":
+	[
+		"/C/Users/akiik/Desktop/whatsapp amtur.html",
+		"/F/profile/index.html",
+		"/C/Dev/cfehome/src/blog/templates/blog/list_inline.html",
+		"/C/Dev/cfehome/src/templates/slide.html",
+		"/C/Dev/cfehome/src/manage.py",
+		"/C/Dev/cfehome/src/blog/models.py",
+		"/C/Dev/cfehome/src/searches/templates/searches/view.html",
+		"/C/Dev/cfehome/src/searches/views.py",
+		"/C/Dev/cfehome/src/templates/navbar.html",
+		"/C/Dev/cfehome/src/searches/templates/view.html",
+		"/C/Dev/cfehome/src/my_django/settings.py",
+		"/C/Dev/cfehome/src/my_django/urls.py",
+		"/C/Dev/cfehome/src/searches/admin.py",
+		"/C/Dev/cfehome/src/searches/models.py",
+		"/F/profile/css/bootstrap.css",
+		"/C/Dev/cfehome/src/blog/views.py",
+		"/C/Dev/cfehome/src/blog/templates/blog/form.html",
+		"/C/Dev/cfehome/src/templates/form.html",
+		"/C/Dev/cfehome/src/my_django/forms.py",
+		"/C/Dev/cfehome/src/blog/forms.py",
+		"/C/Dev/cfehome/src/staticfiles/blank.txt",
+		"/C/Dev/cfehome/static_cdn_test/blank/blank.txt",
+		"/C/Dev/cfehome/src/blog/templates/blog/list.html",
+		"/C/Dev/cfehome/src/templates/home.html",
+		"/C/Dev/cfehome/src/templates/base.html",
+		"/C/Dev/cfehome/src/blog/templates/blog/detail.html",
+		"/C/Dev/cfehome/src/my_django/views.py",
+		"/C/Dev/cfehome/src/templates/about.html",
+		"/C/Dev/cfehome/src/blog/templates/blog/delete.html",
+		"/C/Dev/cfehome/src/blog/templates/blog/create.html",
+		"/C/Dev/cfehome/src/my_django/form.py",
+		"/C/Dev/cfehome/src/blog/urls.py",
+		"/C/Dev/cfehome/src/templates/blog_post_list.html",
+		"/C/Dev/cfehome/src/templates/blog_post_delete.html",
+		"/C/Dev/cfehome/src/templates/blog_post_update.html",
+		"/C/Dev/cfehome/src/templates/blog_post_create.html",
+		"/C/Dev/cfehome/src/templates/blog_post_detail.html",
+		"/C/Dev/cfehome/src/templates/blog_post_detail_page.html",
+		"/C/Dev/cfehome/src/blog/admin.py",
+		"/C/Dev/cfehome/src/templates/Test_page.html",
+		"/C/Dev/cfehome/myenv/my_django.sublime-project",
+		"/C/Dev/cfehome/try_django",
+		"/C/xampp/htdocs/Android/includes/constants.php",
+		"/C/xampp/htdocs/Android/includes/dbconnect.php",
+		"/C/Users/akiik/Desktop/admin.php",
+		"/C/xampp/htdocs/Android/includes/dboperations.php",
+		"/C/xampp/htdocs/Android/v1/registerUser.php",
+		"/C/xampp/htdocs/Android/v1/userLogin.php",
+		"/C/Users/akiik/Desktop/mario/neatevolve.lua",
+		"/C/Users/akiik/Desktop/question1.py",
+		"/F/profile/about.html",
+		"/C/xampp/htdocs/Schooldb/Api.php",
+		"/C/Users/akiik/Desktop/snake.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "my_django.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
